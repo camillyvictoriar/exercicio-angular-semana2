@@ -1,0 +1,30 @@
+.div {
+    width: 1000px;
+    height: 800px;
+    margin: auto;
+    color: #8B4513;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.titulo p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.conteiner{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.conteiner p{
+    padding: 10px;
+    color: aliceblue;
+    background-color: #8B4513;
+}

@@ -1,0 +1,25 @@
+
+.menu{
+    width: 100%;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+    background-color: #8B4513;
+    align-items: center;
+}
+
+.menu ul{
+    max-width: 800px;
+    list-style: none;
+    padding: 0;
+}
+
+.menu ul li {
+    display: inline;
+}
+
+.menu ul li a {
+    color: #FFF;
+    padding: 20px;
+    display: inline-block;
+    text-decoration: none;
+}
